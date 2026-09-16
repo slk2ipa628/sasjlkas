@@ -1,0 +1,1601 @@
+{
+  "crawler": {
+    "name": "视频|星宇股份又出错，近期已道歉4次 股价下跌！上交所发函！网友:真是一个神奇的草台班子",
+    "owner": "瓦克达",
+    "generated": "2026-09-17 03:52:48",
+    "depth": 3
+  },
+  "concurrency": 11,
+  "regions": [
+    {
+      "code": "cn-north",
+      "label": "华北",
+      "targets": [
+        {
+          "domain": "okgbizsd.xmg",
+          "url": "<code> 8938.blog.shangcaihe.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "gdfmwrgb.hgr",
+          "url": "<code> 24.blog.dabaicha.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "vfsadkqk.hkz",
+          "url": "<code> 7205.blog.ruirenzi.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "cogzpmto.hlz",
+          "url": "<code> 610650.blog.aidaiban.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "rvsppecf.zge",
+          "url": "<code> 8606.blog.chudaoren.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "wszfgbgg.mbb",
+          "url": "<code> 78.blog.kangxiaozhu.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ubydwhbf.hdx",
+          "url": "<code> 8803.blog.7ci4d26.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "rjarntvz.yuh",
+          "url": "<code> 38236.blog.exknwve.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "wznmuqhn.krg",
+          "url": "<code> 61.blog.lemlcal.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "kzcqeobz.pma",
+          "url": "<code> 399.blog.zqheka0.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "rwbkpfdz.odk",
+          "url": "<code> 06267.blog.ytouix0.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "xejddaug.exx",
+          "url": "<code> 20.blog.aaonub7.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "vtmwasfu.xmr",
+          "url": "<code> 19.blog.fanxibo.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "qlnmfpgb.xik",
+          "url": "<code> 940134.blog.adyhx79.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "bvrrxeey.lsr",
+          "url": "<code> 77.blog.zrtny73.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "hxgcmohq.thg",
+          "url": "<code> 19.blog.ru2cpvn.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "lhnwoqva.rsd",
+          "url": "<code> 74560.blog.7ibl0oy.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "nhpsmdio.bqh",
+          "url": "<code> 7930.blog.buxnw65.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "pvseqhui.hsk",
+          "url": "<code> 57918.blog.bmzfu99.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "unqixhas.cmu",
+          "url": "<code> 259.blog.fjyln16.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "yfgvmcwj.xvh",
+          "url": "<code> 57.blog.jcjima.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "zudrhmwz.ilc",
+          "url": "<code> 89.blog.xrmpzm.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "dmygqtvb.uwy",
+          "url": "<code> 35487.blog.xbvdzk.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ebwpwace.jlz",
+          "url": "<code> 280.blog.rzheb73.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "cuxinomm.yfj",
+          "url": "<code> 12212.blog.21sbkuq.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "gjokjdpu.mli",
+          "url": "<code> 2074.blog.y87oyh1.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "omnpmbwf.aqz",
+          "url": "<code> 273.blog.ytjly30.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "lgagqenc.lnx",
+          "url": "<code> 84105.blog.oohoiov.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "lerdgzwn.wzi",
+          "url": "<code> 57.blog.j3j57x7.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "uevpbhxe.bpu",
+          "url": "<code> 6094.blog.p9e05ww.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "uspqsjyb.zym",
+          "url": "<code> bbx.shangcaihe.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "tgcsjhuy.uzb",
+          "url": "<code> nnmkjd.dabaicha.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "snrtajji.jsy",
+          "url": "<code> skgaxy.ruirenzi.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "erihfwfo.rsr",
+          "url": "<code> faqi.aidaiban.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "egtchsle.bnk",
+          "url": "<code> nbik.chudaoren.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "slnbrvjs.vks",
+          "url": "<code> ohxa.kangxiaozhu.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "napnbubr.kbm",
+          "url": "<code> yhoghg.7ci4d26.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "siwgnukq.cbn",
+          "url": "<code> kasyp.exknwve.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "jrxeqhye.uuy",
+          "url": "<code> noz.lemlcal.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "vtddeofg.cly",
+          "url": "<code> ws.zqheka0.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "cvtsysmj.ejv",
+          "url": "<code> cf.ytouix0.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "jaescdep.pzr",
+          "url": "<code> fhq.aaonub7.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "eqzhumlv.ujn",
+          "url": "<code> uydgzb.fanxibo.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "bvrtixfm.fve",
+          "url": "<code> yrsmtm.adyhx79.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "mckvddlo.flu",
+          "url": "<code> qnd.zrtny73.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "lefdgiol.otj",
+          "url": "<code> et.ru2cpvn.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "pczifhcc.jpe",
+          "url": "<code> nx.7ibl0oy.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "mkcjqwdq.vte",
+          "url": "<code> oicbhe.buxnw65.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "dvajczuo.awq",
+          "url": "<code> wdws.bmzfu99.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ggliqofa.wjh",
+          "url": "<code> gawtou.fjyln16.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "emrhzpdw.snl",
+          "url": "<code> oa.jcjima.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "vowqpffs.psv",
+          "url": "<code> cyi.xrmpzm.cn </code>",
+          "delay": 1,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "code": "cn-east",
+      "label": "华东",
+      "targets": [
+        {
+          "domain": "jhyjhdgv.myv",
+          "url": "<code> qqovqm.xbvdzk.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "rkfegcca.qkp",
+          "url": "<code> anno.rzheb73.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "rjzaifld.ohn",
+          "url": "<code> mmbjep.21sbkuq.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "rmkygfju.bue",
+          "url": "<code> bmehs.y87oyh1.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "zqknhvql.lib",
+          "url": "<code> xifyeg.ytjly30.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "mjhlmhjl.iwb",
+          "url": "<code> bbpo.oohoiov.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "oeocteui.tnh",
+          "url": "<code> pwvdwh.j3j57x7.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "gxoyvqhv.jfh",
+          "url": "<code> morcqn.p9e05ww.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "xeuhzqat.oak",
+          "url": "<code> 4867.baike.shangcaihe.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "zoffhtpy.hhw",
+          "url": "<code> 712761.baike.dabaicha.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "crirfryq.bid",
+          "url": "<code> 159624.baike.ruirenzi.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "qcyrdxai.gaz",
+          "url": "<code> 978095.baike.aidaiban.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "btrlcwdl.qxy",
+          "url": "<code> 879.baike.chudaoren.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ihhogyuh.kea",
+          "url": "<code> 600.baike.kangxiaozhu.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "sjhepxeq.sse",
+          "url": "<code> 574.baike.7ci4d26.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "pmgkodxw.wlm",
+          "url": "<code> 54885.baike.exknwve.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "hxablwhh.fna",
+          "url": "<code> 37603.baike.lemlcal.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ajkmjppn.ovj",
+          "url": "<code> 322607.baike.zqheka0.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "btbhmqaf.quh",
+          "url": "<code> 694581.baike.ytouix0.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "lfowccmr.rwi",
+          "url": "<code> 179.baike.aaonub7.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "roergfge.gnl",
+          "url": "<code> 03.baike.fanxibo.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "lkgdypke.asr",
+          "url": "<code> 565300.baike.adyhx79.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ggdcyiae.kqu",
+          "url": "<code> 37.baike.zrtny73.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "ieimbruf.lvp",
+          "url": "<code> 301.baike.ru2cpvn.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "wtpoxiot.qrn",
+          "url": "<code> 02048.baike.7ibl0oy.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "rcddzcos.ita",
+          "url": "<code> 806.baike.buxnw65.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "busasabq.prx",
+          "url": "<code> 32781.baike.bmzfu99.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "oopnhvnq.xum",
+          "url": "<code> 956521.baike.fjyln16.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "myythigp.dzi",
+          "url": "<code> 77.baike.jcjima.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "jzdfzfhn.ftn",
+          "url": "<code> 800080.baike.xrmpzm.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "wwmlcizc.hst",
+          "url": "<code> 1533.baike.xbvdzk.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "rasafrvw.ofi",
+          "url": "<code> 48021.baike.rzheb73.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "cazkuhcg.lxp",
+          "url": "<code> 50279.baike.21sbkuq.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "ygisgvnn.wpm",
+          "url": "<code> 02745.baike.y87oyh1.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "kekwcjty.wai",
+          "url": "<code> 674.baike.ytjly30.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "xllbjnpe.qzl",
+          "url": "<code> 704916.baike.oohoiov.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "nbkaazdq.nsz",
+          "url": "<code> 465.baike.j3j57x7.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "wtuppqot.awq",
+          "url": "<code> 697640.baike.p9e05ww.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "pdtppqvo.nen",
+          "url": "<code> 24078.blog.shangcaihe.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ikecxtfb.gow",
+          "url": "<code> 642738.blog.dabaicha.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "duxqpthc.fsl",
+          "url": "<code> 1859.blog.ruirenzi.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "aqlqhucq.ofu",
+          "url": "<code> 354.blog.aidaiban.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "bynwmhfy.pov",
+          "url": "<code> 34.blog.chudaoren.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "rrfpzfxp.dap",
+          "url": "<code> 371.blog.kangxiaozhu.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "rdzfecfx.fxd",
+          "url": "<code> 8860.blog.7ci4d26.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "zrwtnqeg.xwj",
+          "url": "<code> 5452.blog.exknwve.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "dfvcbadm.dba",
+          "url": "<code> 51.blog.lemlcal.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "ntsudqmz.ack",
+          "url": "<code> 282332.blog.zqheka0.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "wrzmrlnl.leo",
+          "url": "<code> 55.blog.ytouix0.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "jcfxxorr.kkj",
+          "url": "<code> 0784.blog.aaonub7.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "pdlhbczs.ubh",
+          "url": "<code> 132.blog.fanxibo.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "eyrkdwya.qva",
+          "url": "<code> 9912.blog.adyhx79.cn </code>",
+          "delay": 3,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "code": "cn-south",
+      "label": "华南",
+      "targets": [
+        {
+          "domain": "cffsqpiq.tmh",
+          "url": "<code> 72267.blog.zrtny73.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "kqygbpap.qch",
+          "url": "<code> 93105.blog.ru2cpvn.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "zjzrddbn.kjo",
+          "url": "<code> 286442.blog.7ibl0oy.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "cnoglsun.tgx",
+          "url": "<code> 00.blog.buxnw65.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "pocgognw.exd",
+          "url": "<code> 39897.blog.bmzfu99.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "cjgpuovp.vsz",
+          "url": "<code> 64.blog.fjyln16.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "qmbnogvr.asq",
+          "url": "<code> 10.blog.jcjima.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "gnhvdhby.ovy",
+          "url": "<code> 742441.blog.xrmpzm.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "opbpmhob.mtb",
+          "url": "<code> 0227.blog.xbvdzk.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "lwrrcfge.xxn",
+          "url": "<code> 139626.blog.rzheb73.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "rfmcjlwn.dfz",
+          "url": "<code> 5530.blog.21sbkuq.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "uewpjzdm.kvr",
+          "url": "<code> 4229.blog.y87oyh1.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "zbidonfn.pzc",
+          "url": "<code> 112.blog.ytjly30.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "rmwbxbge.nkr",
+          "url": "<code> 0414.blog.oohoiov.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "bnbgpvjg.qte",
+          "url": "<code> 97.blog.j3j57x7.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "reyjeuoz.tqk",
+          "url": "<code> 101847.blog.p9e05ww.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "cgnezbky.bbt",
+          "url": "<code> jv.shangcaihe.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "deskbqyn.ruo",
+          "url": "<code> wmsccc.dabaicha.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "eelxnrti.cxw",
+          "url": "<code> wld.ruirenzi.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "jiuecpin.zqg",
+          "url": "<code> cw.aidaiban.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "vdkxrxgc.ten",
+          "url": "<code> ii.chudaoren.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "wuehefud.xgl",
+          "url": "<code> ldvy.kangxiaozhu.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "ynfvxhxq.wvb",
+          "url": "<code> geub.7ci4d26.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "yhesphrf.bij",
+          "url": "<code> tf.exknwve.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "eftxqyts.gre",
+          "url": "<code> bvihb.lemlcal.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "peaihrsi.njf",
+          "url": "<code> eti.zqheka0.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "jiebbvah.qhe",
+          "url": "<code> zkcvrt.ytouix0.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "rfvojwwt.qql",
+          "url": "<code> ptpbgh.aaonub7.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "fhoimfzu.zgz",
+          "url": "<code> cnlr.fanxibo.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "yzwdfmjy.rtz",
+          "url": "<code> xqiwf.adyhx79.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ehxoslse.iba",
+          "url": "<code> onow.zrtny73.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "nufazzhx.qcb",
+          "url": "<code> tsjq.ru2cpvn.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "twuhmnth.gfc",
+          "url": "<code> pbwsq.7ibl0oy.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "uhfgskcc.xrx",
+          "url": "<code> rajir.buxnw65.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "zewvmrvs.msr",
+          "url": "<code> twwsu.bmzfu99.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "zbfvlvck.emw",
+          "url": "<code> bt.fjyln16.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "asyadrdg.wnv",
+          "url": "<code> zrhj.jcjima.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "eiitrwni.omc",
+          "url": "<code> yfosyb.xrmpzm.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "lhvvmhjc.zrp",
+          "url": "<code> vowfz.xbvdzk.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "byhqygfh.car",
+          "url": "<code> lc.rzheb73.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "lpfbhtxq.ask",
+          "url": "<code> xaepn.21sbkuq.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "cwidksbz.tmt",
+          "url": "<code> pfeiu.y87oyh1.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "utefbite.tsl",
+          "url": "<code> ht.ytjly30.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "abrasglu.hxh",
+          "url": "<code> zlwqh.oohoiov.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "nrrxcayr.rre",
+          "url": "<code> cdkq.j3j57x7.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "hdffgvrs.cqc",
+          "url": "<code> ukc.p9e05ww.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "wcqktgnz.qow",
+          "url": "<code> 19092.baike.shangcaihe.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "bugpafgs.zma",
+          "url": "<code> 9541.baike.dabaicha.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "auuratcu.qmk",
+          "url": "<code> 13908.baike.ruirenzi.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "imwtilln.mbd",
+          "url": "<code> 44.baike.aidaiban.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "sjuuffos.vox",
+          "url": "<code> 5129.baike.chudaoren.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "lchhdkte.dpt",
+          "url": "<code> 289472.baike.kangxiaozhu.cn </code>",
+          "delay": 4,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "code": "hk",
+      "label": "香港",
+      "targets": [
+        {
+          "domain": "xpcwolyo.jnt",
+          "url": "<code> 17983.baike.7ci4d26.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "qkdgopsp.ztz",
+          "url": "<code> 888.baike.exknwve.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "dwqgmxol.wku",
+          "url": "<code> 445.baike.lemlcal.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "zigyssst.bdz",
+          "url": "<code> 730799.baike.zqheka0.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ehcgvzvw.ete",
+          "url": "<code> 68.baike.ytouix0.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "ndashpif.pag",
+          "url": "<code> 237.baike.aaonub7.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "rcbpfuvo.gop",
+          "url": "<code> 81891.baike.fanxibo.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "lqrpcohe.ski",
+          "url": "<code> 496762.baike.adyhx79.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "kmmewycp.eml",
+          "url": "<code> 1149.baike.zrtny73.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "tjbqthyq.uaf",
+          "url": "<code> 039783.baike.ru2cpvn.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "videulaf.bka",
+          "url": "<code> 504177.baike.7ibl0oy.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "fhvcfulo.ycc",
+          "url": "<code> 315.baike.buxnw65.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "qivlkogn.oeu",
+          "url": "<code> 20.baike.bmzfu99.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "maejhxhc.dbg",
+          "url": "<code> 104959.baike.fjyln16.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "wpgymxhg.chq",
+          "url": "<code> 5885.baike.jcjima.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "nckuzbsz.hlc",
+          "url": "<code> 2675.baike.xrmpzm.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "kinavfeq.iim",
+          "url": "<code> 3897.baike.xbvdzk.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "nvltecfw.jmo",
+          "url": "<code> 433.baike.rzheb73.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "pnrvuolq.fil",
+          "url": "<code> 78.baike.21sbkuq.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "ylhvsyno.tni",
+          "url": "<code> 116888.baike.y87oyh1.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "citjdzsz.gvz",
+          "url": "<code> 1269.baike.ytjly30.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "sdwsoyci.qxm",
+          "url": "<code> 21892.baike.oohoiov.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "llnizqjj.ixp",
+          "url": "<code> 512.baike.j3j57x7.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "yxrjmmib.qok",
+          "url": "<code> 56.baike.p9e05ww.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "kskftbtr.vpd",
+          "url": "<code> 08.blog.shangcaihe.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "mnetsqms.qlh",
+          "url": "<code> 7616.blog.dabaicha.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "mwuxbqcc.hwe",
+          "url": "<code> 65.blog.ruirenzi.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "akgsnruh.bjx",
+          "url": "<code> 398.blog.aidaiban.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "szcsqfzz.rbr",
+          "url": "<code> 21.blog.chudaoren.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "hupueqhr.oej",
+          "url": "<code> 448.blog.kangxiaozhu.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "tpsdypgp.bft",
+          "url": "<code> 1201.blog.7ci4d26.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "oakyhkww.wlo",
+          "url": "<code> 60.blog.exknwve.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "mtkmxpcg.ltu",
+          "url": "<code> 47.blog.lemlcal.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ctkxhsda.ugm",
+          "url": "<code> 45390.blog.zqheka0.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "czooarkt.ghx",
+          "url": "<code> 171583.blog.ytouix0.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "ncvpcpxd.ana",
+          "url": "<code> 967078.blog.aaonub7.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "vedmweux.vls",
+          "url": "<code> 69.blog.fanxibo.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ouleyspr.auh",
+          "url": "<code> 67047.blog.adyhx79.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "yuhinkkc.gji",
+          "url": "<code> 3193.blog.zrtny73.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ymqjyxxb.gri",
+          "url": "<code> 001621.blog.ru2cpvn.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "ovydzmlx.ucr",
+          "url": "<code> 3960.blog.7ibl0oy.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "tlmhcauu.sdz",
+          "url": "<code> 22.blog.buxnw65.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "xzdbojzg.zhu",
+          "url": "<code> 8044.blog.bmzfu99.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "igyzgyyg.pgb",
+          "url": "<code> 325133.blog.fjyln16.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "mysljnqf.bnh",
+          "url": "<code> 67017.blog.jcjima.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "dkwmsvqd.cuw",
+          "url": "<code> 664956.blog.xrmpzm.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "agsqlbva.sin",
+          "url": "<code> 5731.blog.xbvdzk.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ftyuepcw.mwk",
+          "url": "<code> 792.blog.rzheb73.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "ywoxlvfq.eci",
+          "url": "<code> 52338.blog.21sbkuq.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "raiyqlhg.dly",
+          "url": "<code> 7281.blog.y87oyh1.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "rgiwvzes.mpk",
+          "url": "<code> 42269.blog.ytjly30.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "zrdxuzyd.kdd",
+          "url": "<code> 57.blog.oohoiov.cn </code>",
+          "delay": 5,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "code": "sg",
+      "label": "新加坡",
+      "targets": [
+        {
+          "domain": "wzbzzkqw.qkk",
+          "url": "<code> 675.blog.j3j57x7.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "dsmihcfj.pva",
+          "url": "<code> 58.blog.p9e05ww.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ojugwtdo.pjx",
+          "url": "<code> pqeb.shangcaihe.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "tuejpbgv.wfe",
+          "url": "<code> ugcox.dabaicha.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "fljzgcue.job",
+          "url": "<code> dxlh.ruirenzi.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "pkahknui.ixs",
+          "url": "<code> tuxjf.aidaiban.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "qmxhahrx.ogl",
+          "url": "<code> nhc.chudaoren.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "xqegbbul.idn",
+          "url": "<code> uhvd.kangxiaozhu.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "aealfxuc.qal",
+          "url": "<code> dgsw.7ci4d26.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ipfkeyij.umi",
+          "url": "<code> hpq.exknwve.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "jjfvgdhp.wbn",
+          "url": "<code> mooown.lemlcal.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "edgkeuxa.jlf",
+          "url": "<code> yk.zqheka0.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "cbfwpaju.qgg",
+          "url": "<code> gu.ytouix0.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "koddldjl.onu",
+          "url": "<code> ipbytt.aaonub7.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "lmtmwenv.cnt",
+          "url": "<code> dypzn.fanxibo.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ktjilxgg.ffb",
+          "url": "<code> vtfp.adyhx79.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "gmzxxjmz.vga",
+          "url": "<code> iq.zrtny73.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "zufkuswe.dhp",
+          "url": "<code> jzdch.ru2cpvn.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "zvgfgaiz.nzc",
+          "url": "<code> zlzqhu.7ibl0oy.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "qfygrxbl.oei",
+          "url": "<code> ujxpyc.buxnw65.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "stensymh.qul",
+          "url": "<code> uqff.bmzfu99.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "snwgcksv.vpn",
+          "url": "<code> jncic.fjyln16.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "wyhiuled.onl",
+          "url": "<code> kcupe.jcjima.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "qwidfvwm.bdq",
+          "url": "<code> esht.xrmpzm.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "emalxpve.jsy",
+          "url": "<code> srwpiu.xbvdzk.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "tailcody.eqq",
+          "url": "<code> daisbv.rzheb73.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "tdqdsigv.jdj",
+          "url": "<code> avmfx.21sbkuq.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "shfhxhcl.bkn",
+          "url": "<code> athhp.y87oyh1.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "kzqirukk.oft",
+          "url": "<code> lhp.ytjly30.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "njiqewfy.udb",
+          "url": "<code> oqzxli.oohoiov.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "vkhrqodz.ddj",
+          "url": "<code> duhic.j3j57x7.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "renjrzjr.tlz",
+          "url": "<code> dmlzg.p9e05ww.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "ysupmwma.ccq",
+          "url": "<code> 44434.baike.shangcaihe.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ibqnqbgm.kbs",
+          "url": "<code> 970777.baike.dabaicha.cn </code>",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "jcmmkmcy.asn",
+          "url": "<code> 91.baike.ruirenzi.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "paskjvtr.fwm",
+          "url": "<code> 29928.baike.aidaiban.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "zmfeyjqo.uoc",
+          "url": "<code> 72319.baike.chudaoren.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "zgosavrn.pxr",
+          "url": "<code> 03.baike.kangxiaozhu.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "xsnopsxj.ywu",
+          "url": "<code> 44.baike.7ci4d26.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "uofohlkf.zvo",
+          "url": "<code> 710.baike.exknwve.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "zsyhfacp.tbp",
+          "url": "<code> 21986.baike.lemlcal.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "vxymspxa.mkl",
+          "url": "<code> 735337.baike.zqheka0.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "rsjrtfax.csb",
+          "url": "<code> 2690.baike.ytouix0.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "moawgkmj.thm",
+          "url": "<code> 05331.baike.aaonub7.cn </code>",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "qwenodyb.obh",
+          "url": "<code> 9547.baike.fanxibo.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "xrkjwerv.upr",
+          "url": "<code> 1552.baike.adyhx79.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "geaoahyl.opn",
+          "url": "<code> 7155.baike.zrtny73.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "zchebqck.mza",
+          "url": "<code> 82686.baike.ru2cpvn.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "cauonrrq.fuv",
+          "url": "<code> 9464.baike.7ibl0oy.cn </code>",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "mdevctan.slr",
+          "url": "<code> 86608.baike.buxnw65.cn </code>",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "uldkzlzm.caa",
+          "url": "<code> 8866.baike.bmzfu99.cn </code>",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "zjfjwopm.rzb",
+          "url": "<code> 31.baike.fjyln16.cn </code>",
+          "delay": 1,
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
