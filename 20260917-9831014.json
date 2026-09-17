@@ -1,0 +1,2709 @@
+{
+  "collection": {
+    "name": "“北大—星网元智—工业软件研发智能体联合实验室”成立",
+    "owner": "吴三凤",
+    "generated": "2026-09-17 09:03:04"
+  },
+  "dataSources": [
+    {
+      "key": "pnvvnc17",
+      "name": "习近平在金砖国家领导人第十八次会晤第一阶段会议的讲话（全文）",
+      "driver": "mysql",
+      "url": "<code> 131.www.mmcrcm1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "jfyiwz86",
+      "name": "中信建投：加息“靴子”将落地，A股或迎反攻行情",
+      "driver": "postgres",
+      "url": "<code> 1811.www.nkvfjt3.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "umewjx33",
+      "name": "华侨大学开学 迎逾万名海内外新生",
+      "driver": "http",
+      "url": "<code> 47.www.nkzswv8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "wxtdlm22",
+      "name": "硼砂(十水)商品报价动态（2026-09-12）",
+      "driver": "sqlite",
+      "url": "<code> 96.www.nlzhrv7.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "fhvjhg24",
+      "name": "三一重工：首次回购股份62.39万股 交易总金额1230.87万元",
+      "driver": "redis",
+      "url": "<code> 096.www.nrqrst6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "huajxw07",
+      "name": "美国柴油零售均价创历史新高",
+      "driver": "mysql",
+      "url": "<code> 2621.www.nxjswb0.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "qcdwhw41",
+      "name": "民调：近八成德国人认为默茨“不适合”当总理",
+      "driver": "postgres",
+      "url": "<code> 14610.www.nztlbu0.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "mrqtzs28",
+      "name": "“未给英伟达供货！”“5天3板”PCB牛股紧急澄清，还有一只4倍牛股也公告否认",
+      "driver": "http",
+      "url": "<code> 630.www.ocultt3.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "eldsdi58",
+      "name": "又一海上咽喉告急！",
+      "driver": "sqlite",
+      "url": "<code> 58747.www.oeewfa2.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "vcoxqg07",
+      "name": "青海省公布24年生态数据：生态系统服务价值超3.2万亿",
+      "driver": "redis",
+      "url": "<code> 18306.www.ohfeoo8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "jnmgsf03",
+      "name": "习近平将出席金砖国家领导人迎接仪式",
+      "driver": "mysql",
+      "url": "<code> 5836.www.ojmktr9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "ipartt69",
+      "name": "资本大佬陈发树要减持，对应市值超2亿元",
+      "driver": "postgres",
+      "url": "<code> 86.www.oknzkf1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "vdzfto19",
+      "name": "闪迪暗盘跌超3% 现报1583.055美元",
+      "driver": "http",
+      "url": "<code> 531.www.othvts2.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "ractqa03",
+      "name": "雄安国际算力一体化调度中心启动运行",
+      "driver": "sqlite",
+      "url": "<code> 9233.www.pecvqb7.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "pojpeo66",
+      "name": "国际油价暗盘大跌，布油跌破100美元，美联储年内可能不只加息一次",
+      "driver": "redis",
+      "url": "<code> 2509.www.pjvdqz9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "eweesf75",
+      "name": "据美国商品期货交易委员会（CFTC） 截至2026年9月8日当周 股票基金经理削减标普500 CME净多头头寸19,683份合约",
+      "driver": "mysql",
+      "url": "<code> 03998.www.puvmwr7.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "dktiyt67",
+      "name": "这样熬夜真会“要命”！身体出现这些情况，建议立即就医→",
+      "driver": "postgres",
+      "url": "<code> 0424.www.pxgfrl8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "cmdcng69",
+      "name": "2026贵阳国际网球公开赛女单决赛举行",
+      "driver": "http",
+      "url": "<code> 748.www.pyyggr3.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "wtrbxf78",
+      "name": "澜起科技获UBS Group AG增持32.96万股 每股作价约276.97港元",
+      "driver": "sqlite",
+      "url": "<code> 92.www.qbybmh5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "ubkxcr62",
+      "name": "宁波大学校长34秒发言火了，比仪式更重要的是体谅",
+      "driver": "redis",
+      "url": "<code> 785.www.qenvkz6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "sonjvb73",
+      "name": "中巨芯拟投11亿元布局半导体高纯石英 标的公司尚未盈利",
+      "driver": "mysql",
+      "url": "<code> 26091.www.qeospx6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "nnecvd52",
+      "name": "“央行超级周”来袭！美联储、英国和日本央行谁会先加息？",
+      "driver": "postgres",
+      "url": "<code> 85.www.qhskvp9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "puntwf49",
+      "name": "习言道｜金砖峰会，习近平为何强调“坚定站在历史正确一边”",
+      "driver": "http",
+      "url": "<code> 9308.www.qjgjar9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "vpxrpk56",
+      "name": "奥尔特曼：OpenAI年内不会IPO 公司将优先关注AI安全",
+      "driver": "sqlite",
+      "url": "<code> 079.www.qmywer4.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "fmkatc59",
+      "name": "远望谷半年两换赛道，拟收购的光通信设备公司发明专利仅2个",
+      "driver": "redis",
+      "url": "<code> 862.www.qrcwzo0.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "hziizl86",
+      "name": "全国超级稻30年带动水稻单产提升",
+      "driver": "mysql",
+      "url": "<code> 7942.www.qrloa48.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "mnkaqn89",
+      "name": "阿斯利康乳腺癌药物Etcamah三期临床未达主要终点",
+      "driver": "postgres",
+      "url": "<code> 6353.www.qu5rz6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "qrhohp26",
+      "name": "为建设高素质专业化事业单位领导人员队伍提供更加有力的制度保障——中央组织部等5部委负责人就修订行业事业单位领导人员管理“5个办法”答记者问",
+      "driver": "http",
+      "url": "<code> 5243.www.rmsotk9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "hmwhkq12",
+      "name": "Anthropic上市料造就大批百万富翁 华尔街大行争抢财富管理生意",
+      "driver": "sqlite",
+      "url": "<code> 271.www.rpphww4.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "wqchsi68",
+      "name": "视频|广发证券深圳分公司被深圳证监局出具警示函",
+      "driver": "redis",
+      "url": "<code> 798.www.sfnzww2.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "tbjxbb75",
+      "name": "Anthropic对人工智能的警告或使芯片股承压 但长期影响料有限",
+      "driver": "mysql",
+      "url": "<code> 0604.www.sfzrmw0.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "hlhwwp80",
+      "name": "中巴乐团联袂共绘2026“中巴文化年”交响画卷",
+      "driver": "postgres",
+      "url": "<code> 19.www.shazwc2.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "gedzgz83",
+      "name": "视频画报｜重温习近平主席在金砖峰会的精彩时刻",
+      "driver": "http",
+      "url": "<code> 191.www.shvdzg5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "jvqqup14",
+      "name": "小七龄童在故乡浙江绍兴离世 享年84岁",
+      "driver": "sqlite",
+      "url": "<code> 71427.www.sreegp7.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "bihuwk55",
+      "name": "中央气象台：海南岛等地有大到暴雨 西南地区等地多阴雨",
+      "driver": "redis",
+      "url": "<code> 79.www.sv4s3n.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "svctnz21",
+      "name": "华泰证券：港股基本面与贴现率赛跑 首选红利及创新药",
+      "driver": "mysql",
+      "url": "<code> 43649.www.symnlb8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "pnotjn26",
+      "name": "2026年攀岩世界杯贵阳站开赛 邓丽娟为中国队拿下首金",
+      "driver": "postgres",
+      "url": "<code> 48.www.tiejgy6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "sqqzgt77",
+      "name": "龙版传媒：停牌核查完成，14日开市起复牌",
+      "driver": "http",
+      "url": "<code> 042.www.tktpmw1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "tbsikn50",
+      "name": "9月12日外盘头条：沙特关闭东西向原油管道 美联储下周加息几成定局 对冲基金已大幅削减日元空头仓位",
+      "driver": "sqlite",
+      "url": "<code> 082.www.tnfyph9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "xtzurj08",
+      "name": "久易股份IPO状态变更为终止",
+      "driver": "redis",
+      "url": "<code> 18283.www.twbqmn2.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "goufhb23",
+      "name": "公募逆周期布局提速 机构称A股变盘点或已不远",
+      "driver": "mysql",
+      "url": "<code> 50.www.ubwmry1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "quccob90",
+      "name": "视频|星宇股份又双叒叕出错 三名副总“一年长两岁”：数据一旦注水，信任就会缩水",
+      "driver": "postgres",
+      "url": "<code> 1839.www.uilbgw2.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "vqamfy69",
+      "name": "中超联赛：武汉三镇主场平河南俱乐部彩陶坊",
+      "driver": "http",
+      "url": "<code> 940.www.uoisik1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "uqooni00",
+      "name": "菲华中学生交流日在马尼拉举行 近60名学子体验中华文化",
+      "driver": "sqlite",
+      "url": "<code> 36617.www.upinct9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "foqlbc82",
+      "name": "警惕肝病年轻化！这五个习惯最伤肝",
+      "driver": "redis",
+      "url": "<code> 802.www.uqnray9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "tjvtgq39",
+      "name": "（长征胜利90周年）“鸡汤银镯情”见证乌蒙山乡巨变",
+      "driver": "mysql",
+      "url": "<code> 85597.www.uwvvsx8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "oqmskv70",
+      "name": "夜空寄思念 香港上演无人机秀纪念张国荣诞辰70年",
+      "driver": "postgres",
+      "url": "<code> 06155.www.vanyrt5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "mwxbnw30",
+      "name": "伊朗消息人士称 海湾合作委员会国家将听取伊朗-阿曼谈判结果和阿曼会议决定的简报",
+      "driver": "http",
+      "url": "<code> 252.www.vbope32.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "kgizlq06",
+      "name": "中国“村钓”开赛 钓友相聚宁夏贺兰竞逐渔乐",
+      "driver": "sqlite",
+      "url": "<code> 972.www.vivpmw0.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "msilvb71",
+      "name": "815名运动员548张新面孔 亚运会中国体育看什么？",
+      "driver": "redis",
+      "url": "<code> 5897.www.vknmvk4.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "syykou46",
+      "name": "花旗：中国铁建目标价下调至5.5港元 维持“买入”评级",
+      "driver": "mysql",
+      "url": "<code> 0608.www.vswbzt1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "stessv35",
+      "name": "Anthropic首席执行官发表公开信 呼吁放慢AI模型的发展速度",
+      "driver": "postgres",
+      "url": "<code> 809.www.vvuxad6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "dsppwd41",
+      "name": "2026年宁夏青少年禁毒知识竞赛总决赛在银川举办",
+      "driver": "http",
+      "url": "<code> 31589.www.vwkwcg4.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "zzfnjt65",
+      "name": "东西问丨学者对谈：中拉如何共同编织科技与人权合作图景？",
+      "driver": "sqlite",
+      "url": "<code> 228.www.vxakyp9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "ewjqfc51",
+      "name": "中国波顿于9月11日斥资295.36万港元回购94.4万股",
+      "driver": "redis",
+      "url": "<code> 29.www.wesxyo7.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "jlcild60",
+      "name": "第16次APEC能源部长会议在京闭幕",
+      "driver": "mysql",
+      "url": "<code> 45.www.wfakrx5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "lfulpa47",
+      "name": "WCLC大会开幕！一文搞懂创新药临床指标",
+      "driver": "postgres",
+      "url": "<code> 2165.www.wfbubw3.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "zhyfhb28",
+      "name": "异动拉升，“5天3板”！000823最新澄清：目前无产品供货给英伟达",
+      "driver": "http",
+      "url": "<code> 604.www.wfsrlf2.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "cqpmsk97",
+      "name": "碧桂园服务于9月11日斥资160.3万港元回购30万股",
+      "driver": "sqlite",
+      "url": "<code> 88.www.wjbjuf9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "jxqlul21",
+      "name": "华储网：9月15日中央储备冻猪肉轮换出库挂牌国产冻猪肉15500吨",
+      "driver": "redis",
+      "url": "<code> 6836.www.wjdsyb7.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "weergd98",
+      "name": "苹果iPhone 18 Pro/Pro Max开启预购",
+      "driver": "mysql",
+      "url": "<code> 6909.www.wljhrd1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "onrzht58",
+      "name": "（长征胜利90周年）“共和国摇篮”展翅 瑞金“飞”出新天地",
+      "driver": "postgres",
+      "url": "<code> 4307.www.wtpaa51.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "lwmegw98",
+      "name": "印尼失联客轮已确认沉没 船上无中国公民",
+      "driver": "http",
+      "url": "<code> 66.www.wwwfvv6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "hiopin29",
+      "name": "中炬高新：累计回购2.63%公司股份 耗资3.80亿元",
+      "driver": "sqlite",
+      "url": "<code> 61.www.wwyhxu3.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "yhblly82",
+      "name": "伊朗消息人士透露 伊朗和阿曼已就霍尔木兹海峡进出新路线的细节达成一致",
+      "driver": "redis",
+      "url": "<code> 69.www.wxzhuu5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "rhacki32",
+      "name": "特斯拉Semi卡车将进军欧洲 满载续航最高550公里",
+      "driver": "mysql",
+      "url": "<code> 47789.www.xcxzyo0.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "qlqkck68",
+      "name": "沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查",
+      "driver": "postgres",
+      "url": "<code> 72024.www.xdnhhb5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "eignsi12",
+      "name": "椰油胺商品报价动态（2026-09-12）",
+      "driver": "http",
+      "url": "<code> 177.www.xiihtc8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "ofkpjy29",
+      "name": "南海热带低压在越南广治省沿海登陆",
+      "driver": "sqlite",
+      "url": "<code> 69410.www.xpnve89.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "vangth75",
+      "name": "2026第十四届环太湖国际公路自行车赛启幕",
+      "driver": "redis",
+      "url": "<code> 7734.www.xsctcu6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "oowcfa08",
+      "name": "华银基金新任总经理落定：刘丹履新，华夏银行系高管再落一子",
+      "driver": "mysql",
+      "url": "<code> 93135.www.xtrtvv5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "crmndg82",
+      "name": "胡塞武装称使用大量弹道导弹和无人机打击沙特军事设施",
+      "driver": "postgres",
+      "url": "<code> 05.www.xucfg36.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "pqtpog77",
+      "name": "证监会严肃查处*ST卓然严重财务造假案件 上交所依法启动退市程序",
+      "driver": "http",
+      "url": "<code> 45.www.xuzxx8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "jmshuq05",
+      "name": "擅自泄露病历病情要承担什么责任？患者维权记住这几步",
+      "driver": "sqlite",
+      "url": "<code> 6305.www.ybykch0.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "xirkqf27",
+      "name": "美国8月CPI同比上涨3.4%",
+      "driver": "redis",
+      "url": "<code> 063.www.yctopv0.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "zvnwpx52",
+      "name": "沪市主板公司纷纷披露回购增持进展",
+      "driver": "mysql",
+      "url": "<code> 9526.www.yegnyy9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "wocztn70",
+      "name": "暴雨红色预警 海南陵水发布校外培训机构停课通知",
+      "driver": "postgres",
+      "url": "<code> 506.www.ylayxh8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "lgvprc82",
+      "name": "视频|舍得酒业换届在即 董事长落选 现任董事长未入董事候选人名单 谁将执掌新一届董事会？",
+      "driver": "http",
+      "url": "<code> 885.www.yohlof8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "stbnev77",
+      "name": "【公告精选】两公司澄清与英伟达合作传闻",
+      "driver": "sqlite",
+      "url": "<code> 25199.www.ytdjsv1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "blnyny52",
+      "name": "格力电器与中国核动力研究设计院达成战略合作",
+      "driver": "redis",
+      "url": "<code> 24650.www.yvfcpv6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "jnfcij95",
+      "name": "“读心”有术 “写脑”有方 安徽脑机接口产业加速落地",
+      "driver": "mysql",
+      "url": "<code> 13315.www.ywftdk0.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "mgjyjc78",
+      "name": "提高资本市场制度包容性 吸引优质企业扎根A股",
+      "driver": "postgres",
+      "url": "<code> 39.www.yzqyuj8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "zjqufw41",
+      "name": "美国总统特朗普谈5000美元分红表示 说话算话",
+      "driver": "http",
+      "url": "<code> 95937.www.zmwfca3.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "augwmq27",
+      "name": "史上最大IPO，英伟达正在洽谈投资100亿美元",
+      "driver": "sqlite",
+      "url": "<code> 423.www.zoifvb7.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "trppny43",
+      "name": "世界酱香白酒核心产区仁怀推介活动亮相酒博会 以酒为媒共促酱酒高质量发展",
+      "driver": "redis",
+      "url": "<code> 772.www.dz232.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "jxijde88",
+      "name": "公募逆周期布局提速  机构称A股变盘点或已不远",
+      "driver": "mysql",
+      "url": "<code> 26.www.dz492.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "ofvvmy42",
+      "name": "立足港澳实践 学者探讨“两制”台湾方案制度设计及有效治理",
+      "driver": "postgres",
+      "url": "<code> 53397.www.dz937.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "zwscjx31",
+      "name": "2026全国全民体能大赛巡回赛上海杨浦站圆满落幕",
+      "driver": "http",
+      "url": "<code> 410.www.jvpb.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "aeyrou19",
+      "name": "OpenAI证实其AI智能体于今年5月对RubyGems发起网络攻击",
+      "driver": "sqlite",
+      "url": "<code> 40853.www.uyju.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "cdcamv78",
+      "name": "凌雄科技于9月11日斥资约226.29万港元回购12万股",
+      "driver": "redis",
+      "url": "<code> 21.www.pkdz83.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "tuwgec10",
+      "name": "国际人士热切期待习近平主席出席金砖国家领导人第十八次会晤",
+      "driver": "mysql",
+      "url": "<code> 44.www.pkdz36.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "rsmpwz24",
+      "name": "波音向工程师工会提交最终提案 包含10%加薪",
+      "driver": "postgres",
+      "url": "<code> 31574.www.pkdz98.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "axbgsc68",
+      "name": "算力词元贷加速全国推广",
+      "driver": "http",
+      "url": "<code> 22.www.hhml37.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "crqhtp97",
+      "name": "南A东盟谷OPC社区启航 打造面向东盟人工智能OPC创业高地",
+      "driver": "sqlite",
+      "url": "<code> 757.www.hhml18.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "eizwml50",
+      "name": "智谱：以零息+溢价转股形式融资50亿美元 释放长期股权预期",
+      "driver": "redis",
+      "url": "<code> 0312.www.hhml66.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "jnydda55",
+      "name": "创维数字：不存在“大股东持股比例仅13%”情形",
+      "driver": "mysql",
+      "url": "<code> 2701.www.hpkh.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "odkpqd70",
+      "name": "菲律宾客船起火事故已致76人死亡",
+      "driver": "postgres",
+      "url": "<code> 09780.www.hpkd.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "tceavj56",
+      "name": "从“polis”到“市民”：塞浦路斯驻华大使感悟中西城市治理理念共鸣",
+      "driver": "http",
+      "url": "<code> 9921.www.pkhh35.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "ubhzdn56",
+      "name": "第五届中国（澳门）国际高品质消费博览会举行开馆仪式",
+      "driver": "sqlite",
+      "url": "<code> 11092.www.pkhh81.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "lvfezh89",
+      "name": "九洲集团：公司将于2026年9月29日召开2026年第四次临时股东会",
+      "driver": "redis",
+      "url": "<code> 51105.www.pkhh29.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "adupiv51",
+      "name": "银河通用发布声明：关于公司及管理团队的谣言均属不实，已报案",
+      "driver": "mysql",
+      "url": "<code> 9818.www.pkhh85.org.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "tzmcsz28",
+      "name": "36.9万起！特斯拉推出Model Y高性能版",
+      "driver": "postgres",
+      "url": "<code> 05696.www.tcjmfis.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "eugtrw44",
+      "name": "“丝路书香·四海传福”图书巡回展亮相马尼拉国际书展",
+      "driver": "http",
+      "url": "<code> 46.www.mp0951.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "mjsthy41",
+      "name": "星宇股份再现多处错误，至今未回应！",
+      "driver": "sqlite",
+      "url": "<code> 16.www.idsgcxl.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "owbcyn85",
+      "name": "塞尔维亚总统武契奇视察“卡拉乔尔杰领袖走廊”快速路项目",
+      "driver": "redis",
+      "url": "<code> 959.www.yfgeztz.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "tqrvos47",
+      "name": "“水光针”不是万能美容针，你真的需要吗？",
+      "driver": "mysql",
+      "url": "<code> 712.www.hnwhqcx.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "xgsthm00",
+      "name": "强生据报与阿波罗洽谈约200亿美元骨科业务交易",
+      "driver": "postgres",
+      "url": "<code> 26.www.uppzjqq.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "ombjil26",
+      "name": "据报道 美国商务部长卢特尼克表示美国可尝试“赚取”资金用于发放5000美元支票 不会依赖税收资金",
+      "driver": "http",
+      "url": "<code> 180.www.oxocexq.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "ifxvbw76",
+      "name": "从贸易通道到民生市场 金砖合作在南非落地见效",
+      "driver": "sqlite",
+      "url": "<code> 83895.www.yitbvlt.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "dnslno89",
+      "name": "中国信通院总工程师何宝宏：构建差异化算力布局体系 推动算力建设由规模扩张转向质效提升",
+      "driver": "redis",
+      "url": "<code> 599.www.ftkrze.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "gwrpza45",
+      "name": "云南新世纪滇池国际文化旅游会展置地有限公司原总经理石坤接受监察调查",
+      "driver": "mysql",
+      "url": "<code> 514.www.vheys89.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "fqdxig02",
+      "name": "华为全新三折叠开售秒空！二手市场溢价数千元 优购码被倒卖",
+      "driver": "postgres",
+      "url": "<code> 71.www.cyznp94.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "kcooux91",
+      "name": "第37届上海旅游节大巡游精彩亮相",
+      "driver": "http",
+      "url": "<code> 99155.www.ghsrl78.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "lqrjyd79",
+      "name": "国家自然科学基金长三角基础研究联合基金重大专项启动",
+      "driver": "sqlite",
+      "url": "<code> 75431.www.ytqwe70.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "hmoznj80",
+      "name": "云顶新耀获董事会主席吴以芳增持2万股 每股作价约28.71港元",
+      "driver": "redis",
+      "url": "<code> 16866.www.xdhhe88.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "mgjrqt11",
+      "name": "英伟达被曝拟出资100亿美元参与Anthropic首次公开募股",
+      "driver": "mysql",
+      "url": "<code> 80656.www.rjpgn14.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "lfrrsi75",
+      "name": "网红产品宣传夸张、效果存疑，该去哪里投诉举报？",
+      "driver": "postgres",
+      "url": "<code> 0767.www.znyeo93.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "ehmrpn05",
+      "name": "给工厂装上“AI节能大脑” 浙江宁波以AI赋能制造业绿色发展",
+      "driver": "http",
+      "url": "<code> 47459.www.notbw60.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "fagelw67",
+      "name": "从“加不加息”到“加几次” 美联储加息预期急剧升温",
+      "driver": "sqlite",
+      "url": "<code> 19.www.ojhfy57.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "xvuanv63",
+      "name": "“渝见马尼拉”中秋街头文化节在菲举行",
+      "driver": "redis",
+      "url": "<code> 03947.www.zluli14.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "zeklto50",
+      "name": "明星扎堆“入职”景区NPC，如何跳出短期引流噱头？",
+      "driver": "mysql",
+      "url": "<code> 0686.www.adesg11.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "ltioyw05",
+      "name": "加拿大总理卡尼提议，推动加拿大成为欧盟 “联系成员国”",
+      "driver": "postgres",
+      "url": "<code> 2114.www.zuljh88.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "ycugiq62",
+      "name": "年内股价飙涨397%，金安国纪再度澄清供应链传闻不实",
+      "driver": "http",
+      "url": "<code> 03637.www.yytph72.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "gqnifi76",
+      "name": "四川“两弹城”架起连心桥：红色旅游促各民族交往交流交融",
+      "driver": "sqlite",
+      "url": "<code> 41.www.dbrxq12.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "jokzok01",
+      "name": "美国2026财年前11个月预算赤字达到1.97万亿美元",
+      "driver": "redis",
+      "url": "<code> 54493.www.lnljq14.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "ivbqji52",
+      "name": "美联储9月加息概率超88%",
+      "driver": "mysql",
+      "url": "<code> 737.www.ngzgs97.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "wunfhd22",
+      "name": "惠誉维持意大利“BBB+”评级 展望稳定",
+      "driver": "postgres",
+      "url": "<code> 7458.www.qqmzo44.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "cbugrp35",
+      "name": "一见·“大金砖合作”，何以成其大？",
+      "driver": "http",
+      "url": "<code> 8420.www.kizgp23.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "phckbj37",
+      "name": "中国贸促会副会长李庆霜率中国企业家代表团赴印度出席金砖国家工商论坛",
+      "driver": "sqlite",
+      "url": "<code> 22081.www.wnhht74.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "hlevlr24",
+      "name": "国家医保局公布医疗机构涉医药购销商业贿赂案",
+      "driver": "redis",
+      "url": "<code> 8340.www.wdjwg12.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "chaydk63",
+      "name": "星宇股份解约107名应届生并非因为上市，实际原因更恶劣",
+      "driver": "mysql",
+      "url": "<code> 254.www.kwvgn16.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "coqqyh46",
+      "name": "高校进入楼市“团购” 存量商品房变身大学宿舍 多地发文支持高校收储",
+      "driver": "postgres",
+      "url": "<code> 7599.www.nztfk99.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "ikrqjv46",
+      "name": "胡塞武装称夺取也门西部约5400平方公里土地",
+      "driver": "http",
+      "url": "<code> 07.www.cgvtq38.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "lflgym59",
+      "name": "加油时一个举动导致终身伤残 很多人有这个误区",
+      "driver": "sqlite",
+      "url": "<code> 7105.www.teypd72.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "frjeoy56",
+      "name": "两只PCB概念股公告澄清涉英伟达传闻|盘后公告集锦",
+      "driver": "redis",
+      "url": "<code> 4292.www.dmhhk11.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "eezovq36",
+      "name": "美国债市：国债涨跌不一 收益率曲线走平 通胀报告支持美联储加息",
+      "driver": "mysql",
+      "url": "<code> 9478.www.nmtxy15.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "ahojiv71",
+      "name": "光模块全球第5，年入83亿，海信第6个IPO来了",
+      "driver": "postgres",
+      "url": "<code> 66.www.mvbjv55.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "rapfvs07",
+      "name": "“连线粉丝”讲离奇“真事”？主播被封后起诉平台，法院判了",
+      "driver": "http",
+      "url": "<code> 9023.www.hbrw8014.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "iwktkg11",
+      "name": "胡塞武装称沙特对也门发动129次空袭",
+      "driver": "sqlite",
+      "url": "<code> 99.www.ogmg1125.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "mdsnua10",
+      "name": "拉里·埃里森取消最高75亿美元甲骨文股票出售计划",
+      "driver": "redis",
+      "url": "<code> 934.www.xzkfyp7.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "pxtiiy19",
+      "name": "从紫金矿业“人民币政府”到星宇股份年报“全网抓虫”：一个“草台班子”把年报做成“找茬现场”",
+      "driver": "mysql",
+      "url": "<code> 08629.www.rcilhx5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "wfrbbi47",
+      "name": "算好低空经济协同账",
+      "driver": "postgres",
+      "url": "<code> 2866.www.ccirgn8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "uvgpiu63",
+      "name": "胡塞武装夺取迈雍岛并进入哈尼什群岛，逼近曼德海峡航道",
+      "driver": "http",
+      "url": "<code> 6852.www.nvhrbc1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "zidooh45",
+      "name": "上海市概念验证平台联盟发布",
+      "driver": "sqlite",
+      "url": "<code> 98.www.efgevv8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "uhxokn33",
+      "name": "深圳航空将开通深圳往返悉尼直飞航线",
+      "driver": "redis",
+      "url": "<code> 05221.www.dzpk4194.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "nuvmsq27",
+      "name": "欧洲债市：欧洲地区加息押注降温 短期政府债券上涨",
+      "driver": "mysql",
+      "url": "<code> 79.www.dzpk9155.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "xhwidy04",
+      "name": "循环水阻垢剂商品报价动态（2026-09-12）",
+      "driver": "postgres",
+      "url": "<code> 48235.www.dzpk7971.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "twuaqn38",
+      "name": "从备孕到产后：科学营养如何守护生命早期健康？",
+      "driver": "http",
+      "url": "<code> 17.www.jvxkpp7.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "fkseby75",
+      "name": "国家算力互联互通区域（河北）节点正式启用",
+      "driver": "sqlite",
+      "url": "<code> 79499.www.xusrfi2.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "lnbpnk11",
+      "name": "欧洲央行行长拉加德：价格冲击将持续更长时间 AI领域估值非常高",
+      "driver": "redis",
+      "url": "<code> 1173.www.liwtcu4.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "iitcfo12",
+      "name": "对氨基苯乙酸商品报价动态（2026-09-13）",
+      "driver": "postgres",
+      "url": "<code> 93.www.qhqvfz8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "aynsxm21",
+      "name": "见证历史！首家2万亿代销巨头诞生",
+      "driver": "postgres",
+      "url": "<code> 54782.www.dkppxd6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "mxvqei17",
+      "name": "宁夏供销系统启动农业社会化服务提质增效行动",
+      "driver": "http",
+      "url": "<code> 88355.www.nbelvy5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "gwkzzv88",
+      "name": "伊朗据称周一公布霍尔木兹海峡临时航道协议 特朗普表示不在乎",
+      "driver": "redis",
+      "url": "<code> 2796.www.yiwanet.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "obycxn96",
+      "name": "流鼻血时要仰头？别再用这些“急救方法” 严重可能致命",
+      "driver": "mysql",
+      "url": "<code> 16.www.hizfjs1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "tpjqxg36",
+      "name": "首批普惠算力赋能中小企业发展服务清单发布",
+      "driver": "postgres",
+      "url": "<code> 443.www.bbzkbm5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "doskxz06",
+      "name": "2026年福建省闽台青年电影人才培养“融合计划”发布",
+      "driver": "http",
+      "url": "<code> 829.www.1472dz.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "dvedgf84",
+      "name": "对话摩尔线程张建中：打造国产GPU，一家民企的造“芯”路",
+      "driver": "http",
+      "url": "<code> 15.www.5600dz.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "fmjxjm73",
+      "name": "中信证券：航运周期范式重塑 关注快递旺季价格",
+      "driver": "postgres",
+      "url": "<code> 98.www.2208dz.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "imjqyk27",
+      "name": "雄安国际算力一体化调度中心上线运行",
+      "driver": "sqlite",
+      "url": "<code> 0559.www.mdbdko8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "ruqemr56",
+      "name": "俊知集团拟4.55亿元收购青海中利光纤100%股权",
+      "driver": "redis",
+      "url": "<code> 672.www.exvvds6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "apqmwi55",
+      "name": "鸿路钢构：签订3.75亿元钢结构材料锁价合作协议",
+      "driver": "postgres",
+      "url": "<code> 279.www.aaygwm8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "qabgpn07",
+      "name": "北京6G空天地一体实验室正式发布",
+      "driver": "postgres",
+      "url": "<code> 476.www.ydvdp63.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "qiulnb66",
+      "name": "高盛：美联储加息预期的再次上升可能引发交易商对冲头寸的解除 从而导致黄金价格出现比往常更为剧烈的调整",
+      "driver": "postgres",
+      "url": "<code> 36505.www.slftf97.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "vtsecv36",
+      "name": "佰维存储：每股派现0.4242元，股权登记日为9月17日",
+      "driver": "redis",
+      "url": "<code> 75840.www.sdtjs18.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "hsnlvb28",
+      "name": "中外学者昆明共议本土音乐传承新理论与新实践",
+      "driver": "mysql",
+      "url": "<code> 4164.www.yxltd42.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "vaiovy57",
+      "name": "今年前8个月 深圳对其他金砖成员国进出口同比增长11.5%",
+      "driver": "postgres",
+      "url": "<code> 58558.www.vxzho41.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "wveoon53",
+      "name": "美国零售柴油均价突破每加仑6美元",
+      "driver": "redis",
+      "url": "<code> 91.www.quase10.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "ytrery56",
+      "name": "中国算力大会“年度重大突破成果”揭晓",
+      "driver": "postgres",
+      "url": "<code> 5564.www.pltmys6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "pnukzh85",
+      "name": "多国官员呼吁推动构建全球旅游安全治理新格局",
+      "driver": "redis",
+      "url": "<code> 68.www.rumcbl7.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "bgatev31",
+      "name": "A股震荡分化，外资眼中的“黄金坑”在哪？",
+      "driver": "mysql",
+      "url": "<code> 51.www.kjkqnd5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "lxixjw24",
+      "name": "从“门票经济”到“产业经济” 湖南新化千年梯田“上新”引客来",
+      "driver": "redis",
+      "url": "<code> 26675.www.olhwxq0.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "eecvrd13",
+      "name": "闽派文艺精品系列漆艺展在福州启幕",
+      "driver": "redis",
+      "url": "<code> 68915.www.rwtqdo1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "vvvtep79",
+      "name": "布局传奇IP源头，恺英网络拟间接参股娱美德打通版权端协同",
+      "driver": "postgres",
+      "url": "<code> 413.www.zfzkct6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "ngcoja58",
+      "name": "私募8月业绩修复 头部梯队表现抢眼",
+      "driver": "http",
+      "url": "<code> 39448.www.choxze6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "fnmwts42",
+      "name": "一块屏守护老城记忆 重庆江津几江街道数字文保的“加减法”",
+      "driver": "sqlite",
+      "url": "<code> 663.www.kclkzb9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "dtkggd38",
+      "name": "古香有新职 吉林传统香艺职业化传承启程",
+      "driver": "redis",
+      "url": "<code> 54115.www.knvkjb8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "rcjssy35",
+      "name": "夜盘期货收盘",
+      "driver": "sqlite",
+      "url": "<code> 10.www.qreajo4.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "ixgftc48",
+      "name": "空缺四个多月后，华银基金总经理人选落定",
+      "driver": "mysql",
+      "url": "<code> 25147.www.okjtdc5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "imiwmp07",
+      "name": "高盛科技大会收官：巨头齐声看好AI 黄仁勋称供应链上下游均面临挑战",
+      "driver": "mysql",
+      "url": "<code> 551.www.2v7tti.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "uyuogu56",
+      "name": "服贸会期间北京石景山具身智能训练中心升级亮相",
+      "driver": "postgres",
+      "url": "<code> 698.www.ou56np.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "zvobpx62",
+      "name": "延缓衰老、调节血糖血脂 适当饿一点好处竟然这么多",
+      "driver": "sqlite",
+      "url": "<code> 95.www.k5bn46.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "pmmgso56",
+      "name": "摩根大通改弦更张 现预计美联储9月和12月加息",
+      "driver": "redis",
+      "url": "<code> 0827.www.knn06s.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "mxyufx53",
+      "name": "空座位背后，谁在制造地缘暗流？ | 新漫评",
+      "driver": "postgres",
+      "url": "<code> 29.www.ejree4.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "rzngsc37",
+      "name": "旭日企业获董事长杨振鑫增持4万股 每股作价1.3港元",
+      "driver": "sqlite",
+      "url": "<code> 1236.www.s37aqr.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "tohkxc17",
+      "name": "美国至9月11日当周石油钻井总数450口",
+      "driver": "sqlite",
+      "url": "<code> 3669.www.h6kpro.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "oujffn96",
+      "name": "习近平：开启金砖合作第三个“金色十年”",
+      "driver": "postgres",
+      "url": "<code> 54021.www.l2hrrm.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "lvjbew91",
+      "name": "服贸会上的老朋友：在华30年，他见证中国一年比一年好 | 中国不一样",
+      "driver": "postgres",
+      "url": "<code> 39.www.pvd7zz.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "efkqlg88",
+      "name": "贵州酒商加速转型破圈 年轻化赛道激活酒业新消费",
+      "driver": "mysql",
+      "url": "<code> 571.www.mxym7b.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "msqhhk64",
+      "name": "科技部副部长张光军出席开放科学国际合作高级别会议",
+      "driver": "postgres",
+      "url": "<code> 5564.www.z78t5g.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "czqlxf83",
+      "name": "美军称对伊海上封锁已使99艘商船改变航向",
+      "driver": "postgres",
+      "url": "<code> 2594.www.1welyb.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "foghro34",
+      "name": "第26届四川中秋食品博览会在成都启幕",
+      "driver": "postgres",
+      "url": "<code> 46.www.neiw2g.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "qakfdr60",
+      "name": "解锁夜间科普新玩法 重庆办“科技馆之夜”点燃科学好奇心",
+      "driver": "postgres",
+      "url": "<code> 99.www.eht1w4.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "kmhyaa59",
+      "name": "（长征胜利90周年）创新法治育人路径 最高检巡礼活动走进四川芦山",
+      "driver": "mysql",
+      "url": "<code> 3462.www.xlw63t.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "lbbxsb77",
+      "name": "腾讯、字节、百度提前抢人 奖学金每人可拿20万！",
+      "driver": "postgres",
+      "url": "<code> 99.www.fb1kqy.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "cidlpv95",
+      "name": "下周影响市场重要资讯前瞻：8月经济数据将公布，富时中国A50指数迎来调整，沐曦股份下周解禁68亿",
+      "driver": "mysql",
+      "url": "<code> 16.www.pv2rb9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 20
+      }
+    },
+    {
+      "key": "fokwdo12",
+      "name": "山西繁峙：884名跑者滹沱河畔竞速 体育帮扶赋能县域发展",
+      "driver": "mysql",
+      "url": "<code> 69998.www.7e8aes.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "xeypbv51",
+      "name": "中国泾河博物馆落地泾源",
+      "driver": "sqlite",
+      "url": "<code> 218.www.j286wz.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "zeqmxx19",
+      "name": "全国约2000名“勇士”成都挑战2026斯巴达勇士赛",
+      "driver": "mysql",
+      "url": "<code> 99.www.8ex5s3.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "qxtysm92",
+      "name": "据俄罗斯统计局 俄罗斯8月CPI同比上涨6.33%",
+      "driver": "http",
+      "url": "<code> 9989.www.0f49zx.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "mhvzzr46",
+      "name": "三家具身智能头部企业被同行举报？涉及企业回应",
+      "driver": "postgres",
+      "url": "<code> 91.www.02ovdd.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "nspcgs14",
+      "name": "传统主业步入成熟后期 研究成果聚焦国企科技创新“第二曲线”",
+      "driver": "sqlite",
+      "url": "<code> 975.www.nv27qc.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "mzkwyx96",
+      "name": "粤BA明星赛举行 NBA球星库里现身赛场",
+      "driver": "postgres",
+      "url": "<code> 986.www.rqb3p3.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "heajue20",
+      "name": "引力一号火箭预计9月16日进行海上发射",
+      "driver": "sqlite",
+      "url": "<code> 08852.www.xm5e7n.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "mreare83",
+      "name": "（活力中国调研行）为让年轻人爱上农业，他们想造“智能播种机”",
+      "driver": "redis",
+      "url": "<code> 31874.www.z1t2ig.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "qkyycz77",
+      "name": "上合组织数字经济（部长级）研讨班在京开班",
+      "driver": "http",
+      "url": "<code> 264.www.qy2gn3.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "fjtgxk42",
+      "name": "绥芬河口岸深耕“双买双卖”做强跨境贸易新业态",
+      "driver": "redis",
+      "url": "<code> 3911.www.nh23w9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "bedzuh70",
+      "name": "印尼客轮倾覆已致6人遇难 130人失踪",
+      "driver": "sqlite",
+      "url": "<code> 367.www.105p2o.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "xljzib00",
+      "name": "胡塞武装称曼德海峡通航基本正常",
+      "driver": "http",
+      "url": "<code> 8638.www.9evng2.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 27
+      }
+    },
+    {
+      "key": "afjdak69",
+      "name": "广西全民艺术普及展示活动在来宾举办",
+      "driver": "mysql",
+      "url": "<code> 8864.www.5vi59w.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "xcrhsa87",
+      "name": "激智科技：每10股派0.5元，股权登记日为9月18日",
+      "driver": "mysql",
+      "url": "<code> 2101.www.5eoj83.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "pgmhcj58",
+      "name": "广西首个“用机器人造机器人”工厂投产",
+      "driver": "http",
+      "url": "<code> 333.www.m86cu1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "mkkzev02",
+      "name": "南海热带低压生成 海南启动防汛防风四级应急响应",
+      "driver": "http",
+      "url": "<code> 40912.www.6dd0kg.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "phuomi10",
+      "name": "广州依托恐龙前沿科研成果激活全民科学教育新动能",
+      "driver": "postgres",
+      "url": "<code> 5291.www.x6l3qr.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "zgaypw11",
+      "name": "2026体育文化全国行走进贵州遵义 郭伟阳与师生面对面",
+      "driver": "sqlite",
+      "url": "<code> 61.www.t8m2x7.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "hbmooc69",
+      "name": "超120万人预约、代购最高溢价34000元 iPhone Duo预售爆了！",
+      "driver": "redis",
+      "url": "<code> 6210.www.6q3m8s.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "drqecs36",
+      "name": "（乡村行·看振兴）广东黄塘镇：榴莲蜜薯铺就富民路",
+      "driver": "sqlite",
+      "url": "<code> 45727.www.oi0fn5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 23
+      }
+    },
+    {
+      "key": "zuoqht92",
+      "name": "段永平：关注泡泡玛特，跟李诞无关，但王宁微信是他给我的",
+      "driver": "sqlite",
+      "url": "<code> 0502.www.zilhks.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "chaczw15",
+      "name": "“跨越山海的味道——万里茶道与咖啡之路”巡展登陆圣保罗",
+      "driver": "redis",
+      "url": "<code> 60286.www.49ou24.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "wnnram22",
+      "name": "湖南举办五彩湘茶斗茶大会 打造全民茶文化IP赛事",
+      "driver": "sqlite",
+      "url": "<code> 44547.www.mvgv3j.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "dqrcti67",
+      "name": "服贸会观察：中国电商消费转向体验、理性与近场",
+      "driver": "mysql",
+      "url": "<code> 92.www.c7g70f.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "kfthzy26",
+      "name": "印尼失联客轮确认倾覆 百余人仍下落不明",
+      "driver": "postgres",
+      "url": "<code> 012.www.cb99ph.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "ktbjrl05",
+      "name": "12.5亿长三角联合基金来了，官方详解怎么投、投向哪",
+      "driver": "http",
+      "url": "<code> 63482.www.6wd2ep.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "cnsigj72",
+      "name": "AI“看舌识体质” 安徽亳州校园食堂开启“养生模式”",
+      "driver": "postgres",
+      "url": "<code> 269.www.t41ikr.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "laxogm67",
+      "name": "甲骨文将额外投入7亿美元用于重组计划",
+      "driver": "sqlite",
+      "url": "<code> 93920.www.m3mgyf.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 13
+      }
+    },
+    {
+      "key": "yjbgxy12",
+      "name": "上海再出重磅规划！30年的城市大扩张，要彻底转向了",
+      "driver": "postgres",
+      "url": "<code> 198.www.ce18h8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "jfhuky17",
+      "name": "想关广告却被反复跳转 手机里的“退出键”去哪了？",
+      "driver": "http",
+      "url": "<code> 5852.www.xv31vj.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "spaeka87",
+      "name": "光子产业生态大会举行 专家建言技术跨越从实验室到生产线",
+      "driver": "http",
+      "url": "<code> 68.www.3kdmvr.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "pdxlkl14",
+      "name": "深圳市欢创科技股份有限公司通过港交所上市聆讯",
+      "driver": "mysql",
+      "url": "<code> 60561.www.h35a3o.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "cerrol69",
+      "name": "核聚变路线之争胜负未定，上海为何全线押注",
+      "driver": "postgres",
+      "url": "<code> 249.www.spnhi0.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "ceigip81",
+      "name": "一致行动人“散伙”后仍现同步操作，超级牛散资本谜题何解？",
+      "driver": "redis",
+      "url": "<code> 61471.www.1ccvt6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 29
+      }
+    },
+    {
+      "key": "oacjag69",
+      "name": "东西问丨鲁本·唐·温苏埃塔：中拉文明何以丰富全球人权普遍性？",
+      "driver": "redis",
+      "url": "<code> 18113.www.u7dant.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "ggccne23",
+      "name": "直击光博会！芯片、光引擎、设备密集上新",
+      "driver": "postgres",
+      "url": "<code> 4292.www.eq0sk5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "enbymj92",
+      "name": "涉足控制器芯片！605303，筹划重大资产重组",
+      "driver": "sqlite",
+      "url": "<code> 58.www.juh69x.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "rskofj71",
+      "name": "国联民生于9月11日斥资2785.85万元回购320万股A股",
+      "driver": "sqlite",
+      "url": "<code> 0062.www.w5pxd7.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "uuvydg39",
+      "name": "多学科学者在沪研讨孙中山思想当代价值",
+      "driver": "mysql",
+      "url": "<code> 591.www.6c4tbx.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "mcuakv85",
+      "name": "（活力中国调研行）河南安阳：游客走进殷墟博物馆感受商文明",
+      "driver": "postgres",
+      "url": "<code> 969.www.lvgg34.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "chwumz51",
+      "name": "谷歌前首席科学家的人工智能初创公司Discovery Loop估值约500亿美元",
+      "driver": "postgres",
+      "url": "<code> 100.www.quh25q.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "nhpgiy05",
+      "name": "“两园一河”京西漂流节联动三区",
+      "driver": "mysql",
+      "url": "<code> 639.www.oxo72y.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "xviqne22",
+      "name": "银轮股份：公司无逾期对外担保、无涉及诉讼的对外担保及因担保被判决败诉而应承担损失的情形",
+      "driver": "sqlite",
+      "url": "<code> 551.www.wmvgng1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "tlgdqk62",
+      "name": "南海热带低压趋向越南中部沿海 海南有较强风雨天气",
+      "driver": "sqlite",
+      "url": "<code> 00770.www.fescgy4.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "apwqra55",
+      "name": "上海银行中报：利润增长缓慢，规模扩张赚的钱都去哪了？",
+      "driver": "mysql",
+      "url": "<code> 8142.www.wiybsy5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "gxdarn89",
+      "name": "文具消费回归实用属性",
+      "driver": "redis",
+      "url": "<code> 0056.www.crvlkg7.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 19
+      }
+    },
+    {
+      "key": "apalrw18",
+      "name": "金砖国家领导人第十八次会晤新德里宣言（摘要）",
+      "driver": "redis",
+      "url": "<code> 7489.www.owrnnm9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "joqvqn10",
+      "name": "秋燥分两种，很多人都补反了，越补燥感越重！",
+      "driver": "postgres",
+      "url": "<code> 7853.www.qjvike0.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "pbayub51",
+      "name": "多只宽基ETF成交放量 市场调整中资金借道积极入市",
+      "driver": "postgres",
+      "url": "<code> 21.www.ducnto4.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 11
+      }
+    },
+    {
+      "key": "cniupc41",
+      "name": "美国8月份政府预算赤字为1668亿美元",
+      "driver": "http",
+      "url": "<code> 516.www.vmbbqk1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "gthrco71",
+      "name": "【光大金工】震荡或是当前市场主基调——金融工程市场跟踪周报20260913",
+      "driver": "postgres",
+      "url": "<code> 51836.www.thnbqy4.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 16
+      }
+    },
+    {
+      "key": "jhtlhw36",
+      "name": "美联储下周加息几成定局 手机资费大涨或是关键推手",
+      "driver": "http",
+      "url": "<code> 999.www.pldxdd6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "wvxgrg55",
+      "name": "2026年世界攀联攀岩世界杯（中国贵阳）开赛 邓丽娟为中国队拿下首金",
+      "driver": "postgres",
+      "url": "<code> 11.www.sbmsnn9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "hcipla67",
+      "name": "斜跃智能完成数亿元天使+轮融资",
+      "driver": "redis",
+      "url": "<code> 692.www.jlwpys8.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "vwvnuc26",
+      "name": "9月12日美股成交前20：甲骨文涨超8%后转跌 AI数据中心建设支出利好 戴尔大涨近12%",
+      "driver": "http",
+      "url": "<code> 78.www.xayjlc0.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "qfmiun52",
+      "name": "小狗侦探“神助攻” 涉嫌入室盗窃者露馅",
+      "driver": "http",
+      "url": "<code> 50219.www.pr1hp3.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 17
+      }
+    },
+    {
+      "key": "flacaf28",
+      "name": "多国好物跨越疆界 服贸会联通中外互惠共享",
+      "driver": "mysql",
+      "url": "<code> 66.www.tom0to.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 10
+      }
+    },
+    {
+      "key": "jzfddc29",
+      "name": "（经济观察）平陆运河通航有望助力海南自贸港与东盟经贸往来",
+      "driver": "redis",
+      "url": "<code> 66525.www.bew5n9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    },
+    {
+      "key": "wesfxc02",
+      "name": "报告：北京、上海、深圳位列亚太经合组织智慧城市排名前五",
+      "driver": "sqlite",
+      "url": "<code> 6222.www.s41zc4.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "mgajkj35",
+      "name": "钢铁周 | 钢铁高质量发展与管理创新论坛邀您相聚上海！",
+      "driver": "sqlite",
+      "url": "<code> 88239.www.jh6q5m.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 18
+      }
+    },
+    {
+      "key": "eqssnj55",
+      "name": "视频|因经纪人合规管理不到位等问题，浙商证券、公司高管等一同被监管约谈",
+      "driver": "mysql",
+      "url": "<code> 28805.www.22btfu.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 15
+      }
+    },
+    {
+      "key": "nynoft27",
+      "name": "全国科普月推出欢乐科学周 130余家机构同步开展科普惠民行动",
+      "driver": "http",
+      "url": "<code> 65.www.zqyti26.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 22
+      }
+    },
+    {
+      "key": "wsjzgg55",
+      "name": "雪天盐业：更正重组预案中交易对方及标的公司承诺事项",
+      "driver": "mysql",
+      "url": "<code> 096.www.hndqm26.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 25
+      }
+    },
+    {
+      "key": "ppthij19",
+      "name": "爆发式增长！今年或达10亿亿",
+      "driver": "postgres",
+      "url": "<code> 07786.www.runfm80.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "bzxstd23",
+      "name": "前8月广州海关关区对其他金砖国家进出口超3600亿元",
+      "driver": "http",
+      "url": "<code> 5380.www.ufkip79.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "ahrxzi23",
+      "name": "明天上午10点、下午3点，有两场重磅发布会！",
+      "driver": "redis",
+      "url": "<code> 84.www.ab73d7.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "uucjpu68",
+      "name": "算力“提速”背后 精密测试守住毫厘关口",
+      "driver": "sqlite",
+      "url": "<code> 682.www.wfpvnq3.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 28
+      }
+    },
+    {
+      "key": "kasaih97",
+      "name": "千余专家学者齐聚哈尔滨 共研动力装备关键技术",
+      "driver": "postgres",
+      "url": "<code> 268.www.exbjtr5.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "zeiiud48",
+      "name": "严打股市“小作文” 证监会四份罚单剑指造谣传谣",
+      "driver": "postgres",
+      "url": "<code> 6216.www.huxlro9.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 26
+      }
+    },
+    {
+      "key": "zrmkoo78",
+      "name": "嘉兴平湖办浙台棒垒球交流 选手大半是台青",
+      "driver": "redis",
+      "url": "<code> 65120.www.gikfxa6.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 14
+      }
+    },
+    {
+      "key": "qhuqry65",
+      "name": "新一轮找矿突破战略行动成效显著 我国14种矿产储量居世界第一位",
+      "driver": "postgres",
+      "url": "<code> 99741.www.yectaf1.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 21
+      }
+    },
+    {
+      "key": "psqpbv92",
+      "name": "国家防总针对海南启动防汛四级应急响应",
+      "driver": "http",
+      "url": "<code> 66486.www.fgpysz4.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 12
+      }
+    },
+    {
+      "key": "kxczcq92",
+      "name": "国家数据局：适时推动具身智能数据标准建设 积极支持企业加大数据投入",
+      "driver": "redis",
+      "url": "<code> 8958.www.fzglwu2.cn </code>",
+      "params": {
+        "charset": "utf8mb4",
+        "timeout": 24
+      }
+    }
+  ]
+}
